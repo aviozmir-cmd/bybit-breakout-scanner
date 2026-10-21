@@ -6,7 +6,7 @@ import statistics
 import requests
 from datetime import datetime, timezone
 
-BASE = "https://api.bybit.com"
+BASE = "https://api.bytick.com"
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
